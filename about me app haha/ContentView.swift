@@ -51,6 +51,8 @@ struct ContentView: View {
                 Spacer()
                 Spacer()
                 Spacer()
+                Spacer()
+                Spacer()
                 Text("- all about -")
                     .fontWeight(.bold)
                     .foregroundColor(Color.white)
